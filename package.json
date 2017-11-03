@@ -1,0 +1,16 @@
+{
+  "name": "free-eth",
+  "version": "1.0.0",
+  "description": "Get free ETH on testnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hoang Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
